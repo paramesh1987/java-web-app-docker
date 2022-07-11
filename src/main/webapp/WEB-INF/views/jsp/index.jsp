@@ -31,7 +31,7 @@
 				Welcome Welcome!
 			</c:if>
 		<p>
-			<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+			<a class="btn btn-primary btn-lg" href="#" role="button">Learn more@https://onedrive.live.com/edit.aspx?resid=36E1363CA1975A02%21587&nd=1</a>
 		</p>
 	</div>
 </div>
@@ -40,15 +40,15 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Mithun Technologies, Marathahalli, Banglore.</h2>
-			<h3>Contact @ +91-8296242028 ,+91-9980923226,+91-9980923216</h3>
+			<h2>Welcome To Java test project on Docker.</h2>
+			<h3>Follow https://www.youtube.com/watch?v=hHZoV3LBIwE for more details on the process</h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 2019</p>
+		<p>&copy; Open Source Projects 2022</p>
 	</footer>
 </div>
 
